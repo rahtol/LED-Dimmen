@@ -13,5 +13,5 @@ Setup: Vscode + Platformio
 Board: "WEMOS D1 MINI ESP32"  
 Framework: "Arduino"  
 
-GPIO0: ADC input, i.e. poti
-GPIO1: LED output via 220ohm resistor
+GPIO0: ADC input, i.e. poti  
+GPIO1: LED output via 220ohm resistor  
